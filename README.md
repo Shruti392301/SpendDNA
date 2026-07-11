@@ -23,7 +23,7 @@ The dataset contains **6 months of bank transactions (Jan–Jun 2024)** with the
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 
 ### 🔹 1. Transaction Parser
 
@@ -95,7 +95,7 @@ The dataset contains **6 months of bank transactions (Jan–Jun 2024)** with the
   
 ---
 
-## 🚀 Use Cases
+##  Use Cases
 
 * Personal finance tracking
 * Spend behavior analysis
@@ -105,7 +105,7 @@ The dataset contains **6 months of bank transactions (Jan–Jun 2024)** with the
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * Pandas
